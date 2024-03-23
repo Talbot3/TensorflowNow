@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tensorflownow"
-version = "0.0.20240323142718"
+version = "0.0.20240323143349"
 description = ""
 authors = ["Talbot3 <4wunian@gmail.com>"]
 readme = "README.md"
