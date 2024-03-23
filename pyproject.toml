@@ -1,12 +1,13 @@
 [tool.poetry]
 name = "tensorflownow"
-version = "0.0.20240323101020"
+version = "0.0.20240323123758"
 description = ""
 authors = ["Talbot3 <4wunian@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "3.10.13"
+tensorflow = "^2.16.1"
 
 
 [build-system]
