@@ -288,6 +288,16 @@ files = [
 ]
 
 [[package]]
+name = "jieba"
+version = "0.42.1"
+description = "Chinese Words Segmentation Utilities"
+optional = false
+python-versions = "*"
+files = [
+    {file = "jieba-0.42.1.tar.gz", hash = "sha256:055ca12f62674fafed09427f176506079bc135638a14e23e25be909131928db2"},
+]
+
+[[package]]
 name = "keras"
 version = "3.1.1"
 description = "Multi-backend Keras."
@@ -1025,4 +1035,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "3.10.13"
-content-hash = "0b027ba6f92db87dd8286d0c43375df368e79c8275a218e58057862c76dff7f9"
+content-hash = "8f8403c7648d7ad3a7ade2481187eaff50188bd52d4abaa85a0f5e17d664ac31"
