@@ -21,3 +21,7 @@ poetry config virtualenvs.in-project true --local
 ```
 poetry instsall
 ```
+
+## 捐肋
+
+<img src="./assert/IMG_2049.jpeg" width="48%" height="48%">
