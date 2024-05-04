@@ -24,4 +24,4 @@ poetry instsall
 
 ## 捐肋
 
-<img src="./assert/IMG_2049.jpeg" width="48%" height="48%">
+<img src="assert/IMG_2049.jpeg" width="48%" height="48%">
